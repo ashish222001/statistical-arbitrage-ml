@@ -32,3 +32,7 @@ Python, NumPy, Pandas, Scikit-learn, XGBoost
 
 ## How to Run
 1. Install dependencies
+2. pip install -r requirements.txt
+2. Run the model
+python stat_arb_model.py
+
